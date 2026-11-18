@@ -1,0 +1,2 @@
+# Springer_Discover_Computing_Investigating_non_linear_dynamics_in_neural_networks
+MATLAB implementation of a medical image encryption scheme based on a diffusion–confusion–diffusion architecture, combining DNA encoding and chaos-driven operations. Pseudorandom sequences are generated using a Tabu Learning Neuron model with external stimulus currents, gradient-based activation functions, and threshold terms.
